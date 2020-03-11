@@ -8,8 +8,8 @@
 遊戲以特殊少見的題材、日常生活環境加上生動活潑的特效，創造出一款
 具有獨特風味的遊戲，讓每個玩家都能享受當個萬人迷的滋味！
 ## 團隊
-[Potato](https://github.com/kukuman98)
-[wei]()
+[Potato](https://github.com/kukuman98)  
+[will84568035](https://github.com/will84568035)
 ## 安裝方式
 [安裝壓縮檔案](https://drive.google.com/open?id=1YxFkSYl68B2uVAP8moYdzvn22iojSgF4)  
 下載之後執行安裝，然後到window輸入hotgirl打開游戲執行。
