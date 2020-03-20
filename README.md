@@ -14,5 +14,5 @@
 [安裝壓縮檔案](https://drive.google.com/open?id=1YxFkSYl68B2uVAP8moYdzvn22iojSgF4)  
 下載之後執行安裝，然後到window輸入hotgirl打開游戲執行。
 ## 測試影片
-[實際玩法影片](https://drive.google.com/open?id=1v5LSHxbFxvOllTbnhLyJ7XjSrWmL6970)  
-[各種結局演示](https://drive.google.com/open?id=1UVjrPepS25Od8zYs6Oj47fzxsihuTB5t)
+[實際玩法影片](https://youtu.be/_qmK4C68rdE)  
+[各種結局演示](https://youtu.be/LKeQs5MxgNg)
